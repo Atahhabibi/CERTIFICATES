@@ -12,3 +12,7 @@
 
 ## Terminal 
 ![Terminal-Certification](https://user-images.githubusercontent.com/106895247/211647789-12eb46d5-9079-46fc-8947-000b1b59f737.png)
+
+## Style-Component
+
+![Style-component](https://user-images.githubusercontent.com/106895247/211687608-c774f3e2-7f8e-43c4-9a7f-e26a6eb70a68.jpg)
